@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **baquerosantiago12@gmail.com**
 
-- 📄 Know about my experiences [Backend Developer](Backend Developer)
+- 📄 Know about my experiences (Backend Developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
