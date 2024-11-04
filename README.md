@@ -1,8 +1,28 @@
 <h1 align="center">Hi 👋, I'm Santiago Baquero</h1>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/102531445?v=4"  />
+
+
+
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagobaquero&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobaquero" /> </p>
+
+
 
 - 🌱 I’m currently learning **Java**
 
@@ -22,3 +42,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagobaquero&show_icons=true&locale=en&layout=compact" alt="santiagobaquero" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagobaquero&show_icons=true&locale=en" alt="santiagobaquero" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
