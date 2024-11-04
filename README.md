@@ -35,7 +35,7 @@
 
 
 
-- 🌱 I’m currently learning **Java - Python **
+- 🌱 I’m currently learning **Java - Python**
 
 - 📄 Know about my experiences (Backend Developer)
 
