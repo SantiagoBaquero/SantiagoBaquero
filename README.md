@@ -20,13 +20,11 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagobaquero&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobaquero" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=santiagobaquero&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobaquero" /> </p>
 
 
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **baquerosantiago12@gmail.com**
+- 🌱 I’m currently learning **Java - Python **
 
 - 📄 Know about my experiences (Backend Developer)
 
