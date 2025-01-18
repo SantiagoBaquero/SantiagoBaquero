@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate developer from Colombia</h3>
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/102531445?v=4"  />
 
