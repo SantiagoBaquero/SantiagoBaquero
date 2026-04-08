@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Baquero</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<img src="https://github.com" width="200" align="right" alt="Santiago Baquero">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagobaquero&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobaquero" /> </p>
+
+<img src="https://github.com/user-attachments/assets/020a0567-cf26-4719-9f1f-a82cfea8664b" width="202" height="196" align="right" alt="imagen" />
 
 - 🔭 I’m currently working on **Informatic Forensics**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **Create Video Games**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
